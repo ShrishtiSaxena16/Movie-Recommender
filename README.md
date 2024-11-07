@@ -1,6 +1,3 @@
-# Movie-Recommendation-System
-A movie recommendation system utilizes the collective preferences of a group of users to suggest movies to individuals.
+CineWise is a movie recommendation system that helps users find films that align with their tastes. It’s an easy way to discover new movies based on your personal taste. 
+Using content-based filtering, it looks at details like the cast, genre, keywords, and storyline of each movie to suggest similar films to the ones a user already enjoys. 
 
-Here I have used Collaborative Filtering which identifies similarities between users based on their past movie ratings and preferences. Analyzing these patterns helps the system to predict how a user might rate a movie they haven't seen yet.
-
-Therefore, recommending films that align with their tastes. 
